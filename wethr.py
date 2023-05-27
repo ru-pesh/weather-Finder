@@ -1,7 +1,10 @@
 import requests
+# Requests moduele will help fetching data from the url
 from bs4 import BeautifulSoup
+# The bs4 moduele and beautifulsoup is imported for filtering data from url 
 def weth(city):
     HEADERS = {'User-Agent': 'Mozilla/5.0 (iPad; CPU OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148'}
+    # header variable is taken to avoid compulsion of API from website  
     url="https://www.google.com/search?q=weather+"+ city
     response = requests.get(url,headers = HEADERS)
     soup = BeautifulSoup(response.content, 'html.parser')
