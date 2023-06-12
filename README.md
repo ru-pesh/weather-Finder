@@ -3,5 +3,5 @@
 -Temperature
 -City name
 -Wind speed
--Precipitati
+-Precipitatio
 You can see the above information if you are connectd to internet. 
