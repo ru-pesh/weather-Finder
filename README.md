@@ -4,4 +4,4 @@
 -City name
 -Wind speed
 -Precipitation.
-You can see the above information if you are connec to internet
+You can see the above information if you are connect to internet
