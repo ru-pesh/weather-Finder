@@ -1,6 +1,6 @@
 # weather-Finder
 #This is a simple web scrapping from a website to gather information about-
--Temperature
+-Tempe
 -City name
 -Wind speed
 -Precipitation.
