@@ -34,7 +34,7 @@ while True:
         continue
     else:
         break
-# The above code iterates till someone win
+# The above code iterates till someone 
 
 
 
