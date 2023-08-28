@@ -1,7 +1,7 @@
 import requests
 # Requests moduele will help fetching data from the url.
 from bs4 import BeautifulSoup
-# The bs4 moduele and beautifulsoup is imported for filtering data from url 
+# The bs4 moduele and beautifulsoup is imported for filtering data fr
 def weth(city):
     HEADERS = {'User-Agent': 'Mozilla/5.0 (iPad; CPU OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148'}
     # header variable is taken to avoid compulsion of API from website  
