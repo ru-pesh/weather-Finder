@@ -1,5 +1,5 @@
 import requests
-# Requests moduele will help fetching data from the url.
+# Requests moduele will help fetching data from th
 from bs4 import BeautifulSoup
 # The bs4 moduele and beautifulsoup is imported for filtering data from website.
 def weth(city):
