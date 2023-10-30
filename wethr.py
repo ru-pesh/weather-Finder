@@ -1,4 +1,4 @@
-import reques
+import request
 # Requests moduele will help fetching data from the url.
 from bs4 import BeautifulSoup
 # The bs4 moduele and beautifulsoup is imported for filtering data from website.
